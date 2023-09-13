@@ -51,4 +51,4 @@ Provide unconscious bias training. Establish clear criteria for promotions. Ensu
 To use these files, you need to have PowerBI Desktop installed. Simply download the desired .pbix file and open it in PowerBI Desktop.
 
 ## License:
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/gauravanand7870/PwC-Switzerland-PowerBI/blob/main/LICENSE) file for details.
